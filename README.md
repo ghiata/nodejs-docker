@@ -8,3 +8,7 @@ To start:
 
 -p maps host_port:container_port
 -d runs container in detached mode (in _za_ background)
+
+Example deployment from within indellij IDE:
+
+![](recorded.gif)
